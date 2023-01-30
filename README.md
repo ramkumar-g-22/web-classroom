@@ -13,4 +13,4 @@ question or and give assignments.
 7. Ask Questions (Teachers)
 8. Stream (Comment or Upload files) - Posted Materials, Given Assignments, Asked Questions will be listed here to Students and Teachers
 9. Views (Teachers) - How many students and who are all viewed the documets by posted by Teachers
-10 People - Teachers and Students who are all enrolled
+10. People - Teachers and Students who are all enrolled
